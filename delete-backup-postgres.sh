@@ -1,0 +1,1 @@
+find /home/$user/backup/ -name "*.sql" -type f -mtime +7 -delete
