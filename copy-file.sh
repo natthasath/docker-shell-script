@@ -1,0 +1,1 @@
+docker cp container_name:/var/log/apache2/access.log ./access.log
